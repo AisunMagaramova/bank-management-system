@@ -8,7 +8,7 @@ public  class Main {
         acc.withdraw(10000);
 
         acc.deposit(200);
-        acc.deposit(120);
+        acc.deposit(150);
 
         acc.showDetails();
         acc.showHistory();
